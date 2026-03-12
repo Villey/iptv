@@ -31,9 +31,6 @@ https://hplay.tv/augetv/12396547488/6749.m3u8
 #EXTVLCOPT:file-caching=1000
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SBT São Paulo"  tvg-logo="https://i.imgur.com/srURmsi.png" group-title=" VARIEDADES",13 SBT BETA
-https://api.m3use.projectmoose.xyz/m3u/Vill3y/TV-Aberta-Brasil-SP/69ad111e7a9bfcde70bf10e6.m3u8?uid=Vill3y&pkey=kjSzzDh7
-
 #EXTINF:-1 tvg-id="REDE BRASIL" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title=" VARIEDADES",15 Rede Brasil
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w1212581277.m3u8
 
@@ -132,52 +129,73 @@ https://video01.logicahost.com.br/websptv/websptv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Usw2e9d.png" group-title=" VARIEDADES",81 Rede UTV
 https://utvsoultv.acessaradios.com.br/utvsoultv/utvsoultv.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.vidks.net/v2x/l/webtv-vintage.webp?q=70" group-title=" VARIEDADES",82 Vintage TV
+https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8?hls_ctx=748r418t
+
 # ======================== CULINÁRIA
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/966ed8bebb6bda4c79ddb408dd776d58.webp" group-title="CULINÁRIA",100 Bem Melhor
 https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FPy4zF4.png" group-title="CULINÁRIA",101 Tastemade Brasil
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadept16intl-24i-ono/1594329d-2d42-475c-991e-0142dbf86ac5/4.m3u8
+
 # ======================== SÉRIES
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/2tdMyef.png" group-title="SÉRIES",110 AWTV [Geo-blocked]
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/2tdMyef.png" group-title="SÉRIES",110 AWTV
 #EXTVLCOPT:http-referrer=https://awtv.com.br
 #EXTVLCOPT:file-caching=1000
 https://awtv.nuvemplay.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/22jXTu4.png" group-title="SÉRIES",101 Central TV
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/22jXTu4.png" group-title="SÉRIES",111 Central TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist.m3u8
+
+# ======================== DESENHOS
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://minharadioonline.net/contents/748/cover/logo_1062789513.png" group-title="DESENHOS",120 TeleWeb
+https://video01.brascast.com/acessweb7837/acessweb7837/playlist.m3u8?hls_ctx=5ruu9817
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1e4076264abe6b6ccde87a587966abe.webp" group-title="DESENHOS",121 Retrô Cartoon
+https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 
 # ======================== FILMES
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",CineMonde
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",130 CineMonde
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Classique TV (360p)
-#EXTVLCOPT:file-caching=1000
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.vidks.net/v2x/l/classique-tv.webp?q=70" group-title="FILMES",131 Classique TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",DarkFlix HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.vidks.net/v2x/l/darkflix-tv.webp?q=70" group-title="FILMES",132 DarkFlix HD
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MovieSphere
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2112f7942be7a7bf3f4b41e082cee2b8.webp" group-title="FILMES",133 MovieSphere
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
 
 # ======================== GEEK
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GEEK",Geekdot
-#EXTVLCOPT:file-caching=1000
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jML1u4O.png" group-title="GEEK",140 Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R0aflu1.png" group-title="GEEK",Loading
-#EXTVLCOPT:file-caching=1000
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.vidks.net/v2x/l/loading.webp?q=70" group-title="GEEK",141 Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mF0rLRC.png" group-title="GEEK",142 Xtreme TV
+https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ikrj3lk.png" group-title="GEEK",143 Play TV
+https://isaocorp.cloudecast.com/playtvweb/tracks-v1/index.fmp4.m3u8
 
 # ======================== NOTICIAS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yTZgcyQ/timesbr.jpg" group-title="NOTÍCIAS",Times Brasil
-#EXTVLCOPT:file-caching=1000
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yTZgcyQ/timesbr.jpg" group-title="NOTÍCIAS",150 Times Brasil
 https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.vidks.net/v2x/l/cnn-brasil.webp?q=70" group-title="NOTÍCIAS",151 CNN Brasil
+https://hplay.tv/augetv/12396547488/902.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.vidks.net/v2x/l/band-news.webp?q=70" group-title="NOTÍCIAS",152 Band News
+https://hplay.tv/augetv/12396547488/1300.m3u8
 
 
 
@@ -197,30 +215,3 @@ https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8
 
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-chno=""  tvg-logo="" group-title="",TV Zoom (720p)
-#EXTVLCOPT:file-caching=1000
-https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-chno=""  tvg-logo="" group-title="",TVitapé (720p)
-#EXTVLCOPT:file-caching=1000
-https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-chno=""  tvg-logo="" group-title="",TVNBN (720p)
-#EXTVLCOPT:file-caching=1000
-https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-chno=""  tvg-logo="" group-title="",TVídeoNews (720p) [Not 24/7]
-#EXTVLCOPT:file-caching=1000
-https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-chno=""  tvg-logo="" group-title="",UNISUL TV (720p)
-#EXTVLCOPT:file-caching=1000
-https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
-
-#EXTINF:-1 tvg-id="" tvg-chno="" description="" tvg-logo="" group-title="",Xtreme TV
-https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8

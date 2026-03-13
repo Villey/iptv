@@ -99,7 +99,8 @@ https://canaleducacao-stream.ebc.com.br/index.m3u8
 https://video09.logicahost.com.br/tvbauru/tvbauru/chunklist_w1147724451.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title=" VARIEDADES",71 ISTV
-https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+https://cdn-tiva-video10-logicahost-com-br.smartbit.co/redeistv/redeistv/chunklist_w1852164491.m3u8
+# https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/I6pKoBd.png" group-title="TURISMO",72 TV Paraná
 #EXTVLCOPT:file-caching=1000
@@ -150,6 +151,9 @@ https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/22jXTu4.png" group-title="SÉRIES",111 Central TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist.m3u8
 
+#EXTINF:-1 tvg-id=""  tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/100x100_ecommerce_Acesso_Brasil_TV_ih0G4wu.png" group-title="SÉRIES",112 Acesso Brasil TV
+https://s1.tvr.ovh/acessobrasiltv/acessobrasiltv/playlist.m3u8
+
 # ======================== DESENHOS
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://minharadioonline.net/contents/748/cover/logo_1062789513.png" group-title="DESENHOS",120 TeleWeb
@@ -196,6 +200,7 @@ https://hplay.tv/augetv/12396547488/902.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.vidks.net/v2x/l/band-news.webp?q=70" group-title="NOTÍCIAS",152 Band News
 https://hplay.tv/augetv/12396547488/1300.m3u8
+
 
 
 

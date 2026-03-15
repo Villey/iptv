@@ -1,25 +1,25 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml"
+#EXTM3U x-tvg-url="http://bit.ly/4rADai5"
 # -----------------------------------------------
-# JHV IPTV LIST v0.2.0 - 02/03/2026
+# JHV IPTV LIST v0.2.1 - 14/03/2026
 # -----------------------------------------------
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/O02TF2r.png" group-title=" VARIEDADES",2 Globo
 https://api.m3use.projectmoose.xyz/m3u/Vill3y/TV-Aberta-Brasil-SP/683aef9d2e64fb5fd28577b2.m3u8?uid=Vill3y&pkey=kjSzzDh7
 
-#EXTINF:-1 tvg-id="RECORD São Paulo" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title=" VARIEDADES",4 Record | MT
+#EXTINF:-1 tvg-id="425966" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title=" VARIEDADES",4 Record | MT
 #EXTVLCOPT:file-caching=1000
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
 # https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="CULTURA HD"  tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="EDUCATIVO",5 TV Cultura
+#EXTINF:-1 tvg-id="426068"  tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="EDUCATIVO",5 TV Cultura
 #EXTVLCOPT:file-caching=1000
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
-#EXTINF:-1 tvg-id="RECORD NEWS"  tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="NOTÍCIAS",8 Record News
+#EXTINF:-1 tvg-id="426126"  tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="NOTÍCIAS",8 Record News
 #EXTVLCOPT:file-caching=1000
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 
-#EXTINF:-1 tvg-id="BAND HD"  tvg-logo="https://i.imgur.com/roCodnj.png" group-title=" VARIEDADES",10 Band
+#EXTINF:-1 tvg-id="426038"  tvg-logo="https://i.imgur.com/roCodnj.png" group-title=" VARIEDADES",10 Band
 #EXTVLCOPT:file-caching=1000
 https://hplay.tv/augetv/12396547488/131.m3u8
 # https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
@@ -27,21 +27,21 @@ https://hplay.tv/augetv/12396547488/131.m3u8
 #EXTINF:-1 tvg-id="CNT"  tvg-logo="https://i.imgur.com/jcasAmw.png" group-title=" VARIEDADES",12 CNT
 https://hplay.tv/augetv/12396547488/6749.m3u8
 
-#EXTINF:-1 tvg-id="SBT São Paulo"  tvg-logo="https://i.imgur.com/srURmsi.png" group-title=" VARIEDADES",13 SBT
+#EXTINF:-1 tvg-id="426178"  tvg-logo="https://i.imgur.com/srURmsi.png" group-title=" VARIEDADES",13 SBT
 #EXTVLCOPT:file-caching=1000
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
-#EXTINF:-1 tvg-id="REDE BRASIL" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title=" VARIEDADES",15 Rede Brasil
+#EXTINF:-1 tvg-id="417589" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title=" VARIEDADES",15 Rede Brasil
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w1212581277.m3u8
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/k7vO9Bk.png" group-title=" VARIEDADES",18 Rede TV! ES
+#EXTINF:-1 tvg-id="523301"  tvg-logo="https://i.imgur.com/k7vO9Bk.png" group-title=" VARIEDADES",18 Rede TV! ES
 #EXTVLCOPT:file-caching=1000
 https://streaming.cloudecast.com/hls/redetves/index.m3u8
 
-#EXTINF:-1 tvg-id="RedeTV.br"  tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title=" VARIEDADES",19 Rede TV! PR
+#EXTINF:-1 tvg-id="523301"  tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title=" VARIEDADES",19 Rede TV! PR
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 
-#EXTINF:-1 tvg-id="REDE VIDA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="CATÓLICO",21 Rede Vida
+#EXTINF:-1 tvg-id="426022"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="CATÓLICO",21 Rede Vida
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/3oS1kJl.png" group-title="SÉRIES",29 Canal 29
@@ -57,14 +57,14 @@ https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/chunklist_w1775250420
 #EXTVLCOPT:file-caching=1000
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV APARECIDA HD"  tvg-logo="https://i.imgur.com/NJCEHbQ.png" group-title="CATÓLICO",44 TV Aparecida
+#EXTINF:-1 tvg-id="523345"  tvg-logo="https://i.imgur.com/NJCEHbQ.png" group-title="CATÓLICO",44 TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title=" VARIEDADES",48 Rede NGT
 #EXTVLCOPT:file-caching=1000
 https://isaocorp.cloudecast.com/ngt/index.m3u8
 
-#EXTINF:-1 tvg-id="GAZETA" tvg-logo="https://i.imgur.com/0sksWse.png" group-title=" VARIEDADES",53 TV Gazeta
+#EXTINF:-1 tvg-id="523302" tvg-logo="https://i.imgur.com/0sksWse.png" group-title=" VARIEDADES",53 TV Gazeta
 https://hplay.tv/augetv/12396547488/6576.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png" group-title="EDUCATIVO",54 Rede Minas
@@ -73,7 +73,7 @@ https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/ZHO33ib.png" group-title="CATÓLICO",55 Rede Século 21
 https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/master.m3u8
 
-#EXTINF:-1 tvg-id="TV BRASIL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/320px-TvBrasil2023.png" group-title="EDUCATIVO",56 TV Brasil
+#EXTINF:-1 tvg-id="426185"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/320px-TvBrasil2023.png" group-title="EDUCATIVO",56 TV Brasil
 #EXTVLCOPT:file-caching=1000
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
@@ -81,7 +81,7 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTVLCOPT:file-caching=1000
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="POLÍTICO",60 TV Câmara
+#EXTINF:-1 tvg-id="425991"  tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="POLÍTICO",60 TV Câmara
 #EXTVLCOPT:file-caching=1000
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
@@ -118,7 +118,7 @@ https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 #EXTVLCOPT:file-caching=1000
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV Pai Eterno HD"  tvg-logo="https://i.imgur.com/H5zWaCa.png" group-title="CATÓLICO",76 TV Pai Eterno
+#EXTINF:-1 tvg-id="426089"  tvg-logo="https://i.imgur.com/H5zWaCa.png" group-title="CATÓLICO",76 TV Pai Eterno
 https://video09.logicahost.com.br/paieterno/paieterno/master.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png" group-title="CATÓLICO",77 PUC TV
@@ -195,10 +195,10 @@ https://isaocorp.cloudecast.com/playtvweb/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yTZgcyQ/timesbr.jpg" group-title="NOTÍCIAS",150 Times Brasil
 https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.vidks.net/v2x/l/cnn-brasil.webp?q=70" group-title="NOTÍCIAS",151 CNN Brasil
+#EXTINF:-1 tvg-id="426156" tvg-logo="https://img.vidks.net/v2x/l/cnn-brasil.webp?q=70" group-title="NOTÍCIAS",151 CNN Brasil
 https://hplay.tv/augetv/12396547488/902.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.vidks.net/v2x/l/band-news.webp?q=70" group-title="NOTÍCIAS",152 Band News
+#EXTINF:-1 tvg-id="523314" tvg-logo="https://img.vidks.net/v2x/l/band-news.webp?q=70" group-title="NOTÍCIAS",152 Band News
 https://hplay.tv/augetv/12396547488/1300.m3u8
 
 

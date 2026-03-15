@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script>
+  async function gerarXML() {
+    const proxy = "https://cors-anywhere.herokuapp.com/";
+  
+    const dataLocal = new Date().toLocaleDateString('sv-SE'); 
+    
+    let urlAlvo = "https://www.tvprogramacao.com/epg/channels/cnt/" + dataLocal;
+  
+    const resposta = await fetch(proxy + urlAlvo);
+    const html = await resposta.text();
+    
+    const regex = /datetime="([^"]+)"[\s\S]*?programm-list__title"[^>]*>[\s\S]*?<div>([\s\S]*?)<\/div>/g;
+    let programasXml = "";
+    let matches = [...html.matchAll(regex)];
+  
+    matches.forEach((match, i) => {
+      const start = match[1].replace(/[- :]/g, "") + " -0300";
+      const titulo = match[2].trim();
+
+      const stop = matches[i+1] ? matches[i+1][1].replace(/[- :]/g, "") + " -0300" : start; 
+  
+      programasXml += `
+      <programme start="${start}" stop="${stop}" channel="CNT">
+        <title lang="pt">${titulo}</title>
+      </programme>`;
+    });
+  
+    const xmlFinal = `<?xml version="1.0" encoding="UTF-8"?>
+    <tv>
+      <channel id="CNT"><display-name>CNT</display-name></channel>
+      ${programasXml}
+    </tv>`;
+  
+    document.open("text/xml");
+    document.write(xmlFinal);
+    document.close();
+  }
+  gerarXML();
+</script>
+</body>
+</html>

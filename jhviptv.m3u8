@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://bit.ly/4rADai5,https://script.googleusercontent.com/macros/echo?user_content_key=AY5xjrQ1JLeg_8sqp1J-ryWVuHw8gOK9y8vopsWv8oMH0Yjc0x19p31uPG01k4mDHHNievVP_upzvKzntQKXLq960pGG4zYR-x5UFB76oiP4JUmiJYw0i91gBXM1jE2OIB4WBbkaPCpeP4ca3aSdCyz9EzulNNkFNNydbndvS24VFcHea4y-Dg-jJEQr6jqqET09geiqfgVoZDXhLFxPbhz0NVqSJEZbMPPs37wCom-EZV4kCRYAgG2j95Bb7-dt0WmXvRcAefX8K-L5C6NnBTWCDHLZ5WO6JAyS5bMPSrJa&lib=MO94ssbPXpQSFarKiXspLTK0vjyZK6NMR,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml"
 # -----------------------------------------------
-# JHV IPTV LIST v0.2.1 - 14/03/2026
+# JHV IPTV LIST v0.3.0 - 21/03/2026
 # -----------------------------------------------
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/O02TF2r.png" group-title=" VARIEDADES",2 Globo
@@ -50,7 +50,7 @@ https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://img.vidks.net/v2x/l/tv-preve.webp" group-title="EDUCATIVO",32 TV Prevê
 https://video01.kshost.com.br/paulispar7372/paulispar7372/playlist.m3u8?hls_ctx=97q6i941&t=1774065636
 
-#EXTINF:-1 tvg-id="TVE INTERNATIONAL"  tvg-logo="https://i.imgur.com/MQ6lJpS.png" group-title="EDUCATIVO",34 TVE
+#EXTINF:-1 tvg-id="TVE-Brasil"  tvg-logo="https://i.imgur.com/MQ6lJpS.png" group-title="EDUCATIVO",34 TVE
 https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/chunklist_w1775250420_b5728000.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/co7TCWC.png" group-title=" VARIEDADES",38 Canal 38
@@ -60,24 +60,24 @@ https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 #EXTINF:-1 tvg-id="523345"  tvg-logo="https://i.imgur.com/NJCEHbQ.png" group-title="CATÓLICO",44 TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title=" VARIEDADES",48 Rede NGT
+#EXTINF:-1 tvg-id="NGT"  tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title=" VARIEDADES",48 Rede NGT
 #EXTVLCOPT:file-caching=1000
 https://isaocorp.cloudecast.com/ngt/index.m3u8
 
 #EXTINF:-1 tvg-id="523302" tvg-logo="https://i.imgur.com/0sksWse.png" group-title=" VARIEDADES",53 TV Gazeta
 https://hplay.tv/augetv/12396547488/6576.m3u8
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png" group-title="EDUCATIVO",54 Rede Minas
+#EXTINF:-1 tvg-id="Rede-Minas"  tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png" group-title="EDUCATIVO",54 Rede Minas
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/ZHO33ib.png" group-title="CATÓLICO",55 Rede Século 21
+#EXTINF:-1 tvg-id="XXI"  tvg-logo="https://i.imgur.com/ZHO33ib.png" group-title="CATÓLICO",55 Rede Século 21
 https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/master.m3u8
 
 #EXTINF:-1 tvg-id="426185"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/320px-TvBrasil2023.png" group-title="EDUCATIVO",56 TV Brasil
 #EXTVLCOPT:file-caching=1000
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/wcRWSzc.png" group-title="CATÓLICO",58 TV Canção Nova
+#EXTINF:-1 tvg-id="cancao-nova"  tvg-logo="https://i.imgur.com/wcRWSzc.png" group-title="CATÓLICO",58 TV Canção Nova
 #EXTVLCOPT:file-caching=1000
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
 
@@ -121,7 +121,7 @@ https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-id="426089"  tvg-logo="https://i.imgur.com/H5zWaCa.png" group-title="CATÓLICO",76 TV Pai Eterno
 https://video09.logicahost.com.br/paieterno/paieterno/master.m3u8
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png" group-title="CATÓLICO",77 PUC TV
+#EXTINF:-1 tvg-id="PUCTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png" group-title="CATÓLICO",77 PUC TV
 https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kh3LGAP.png" group-title=" VARIEDADES",80 Rede SPTV
@@ -181,13 +181,13 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jML1u4O.png" group-title="GEEK",140 Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.vidks.net/v2x/l/loading.webp?q=70" group-title="GEEK",141 Loading
+#EXTINF:-1 tvg-id="Loading" tvg-logo="https://img.vidks.net/v2x/l/loading.webp?q=70" group-title="GEEK",141 Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mF0rLRC.png" group-title="GEEK",142 Xtreme TV
 https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ikrj3lk.png" group-title="GEEK",143 Play TV
+#EXTINF:-1 tvg-id="PlayTV" tvg-logo="https://i.imgur.com/Ikrj3lk.png" group-title="GEEK",143 Play TV
 https://isaocorp.cloudecast.com/playtvweb/tracks-v1/index.fmp4.m3u8
 
 # ======================== NOTICIAS

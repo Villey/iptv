@@ -44,7 +44,7 @@ https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="426022"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="CATÓLICO",21 Rede Vida
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/3oS1kJl.png" group-title="SÉRIES",29 Canal 29
+#EXTINF:-1 tvg-id="CANAL29"  tvg-logo="https://i.imgur.com/3oS1kJl.png" group-title="SÉRIES",29 Canal 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://img.vidks.net/v2x/l/tv-preve.webp" group-title="EDUCATIVO",32 TV Prevê

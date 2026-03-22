@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://bit.ly/4rADai5,https://script.googleusercontent.com/macros/echo?user_content_key=AY5xjrQ1JLeg_8sqp1J-ryWVuHw8gOK9y8vopsWv8oMH0Yjc0x19p31uPG01k4mDHHNievVP_upzvKzntQKXLq960pGG4zYR-x5UFB76oiP4JUmiJYw0i91gBXM1jE2OIB4WBbkaPCpeP4ca3aSdCyz9EzulNNkFNNydbndvS24VFcHea4y-Dg-jJEQr6jqqET09geiqfgVoZDXhLFxPbhz0NVqSJEZbMPPs37wCom-EZV4kCRYAgG2j95Bb7-dt0WmXvRcAefX8K-L5C6NnBTWCDHLZ5WO6JAyS5bMPSrJa&lib=MO94ssbPXpQSFarKiXspLTK0vjyZK6NMR,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml"
 # -----------------------------------------------
-# JHV IPTV LIST v0.3.0 - 21/03/2026
+# JHV IPTV LIST v0.3.1 - 22/03/2026
 # -----------------------------------------------
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/O02TF2r.png" group-title=" VARIEDADES",2 Globo
@@ -38,7 +38,7 @@ https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_
 #EXTVLCOPT:file-caching=1000
 https://streaming.cloudecast.com/hls/redetves/index.m3u8
 
-#EXTINF:-1 tvg-id="523301"  tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title=" VARIEDADES",19 Rede TV! PR
+#EXTINF:-1 tvg-id="RedeTV-PR"  tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title=" VARIEDADES",19 Rede TV! PR
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 
 #EXTINF:-1 tvg-id="426022"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="CATÓLICO",21 Rede Vida
@@ -98,7 +98,7 @@ https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://img.vidks.net/v2x/l/tvc-bauru.webp" group-title=" VARIEDADES",70 TVC Bauru
 https://video09.logicahost.com.br/tvbauru/tvbauru/chunklist_w1147724451.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title=" VARIEDADES",71 ISTV
+#EXTINF:-1 tvg-id="ISTV" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title=" VARIEDADES",71 ISTV
 https://cdn-tiva-video10-logicahost-com-br.smartbit.co/redeistv/redeistv/chunklist_w1852164491.m3u8
 # https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 
@@ -106,15 +106,14 @@ https://cdn-tiva-video10-logicahost-com-br.smartbit.co/redeistv/redeistv/chunkli
 #EXTVLCOPT:file-caching=1000
 http://200.189.113.201/hls/tve.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PMptSP3.png" group-title=" VARIEDADES",73 Primer TV
-#EXTVLCOPT:file-caching=1000
+#EXTINF:-1 tvg-id="Primer" tvg-logo="https://i.imgur.com/PMptSP3.png" group-title=" VARIEDADES",73 Primer TV
 http://200.194.238.229:8383/live/primer/playlist.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/Y7b29VG.png" group-title=" VARIEDADES",74 TV Padre Cicero
 #EXTVLCOPT:file-caching=1000
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="",75 Adesso TV
+#EXTINF:-1 tvg-id="Adesso"  tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="",75 Adesso TV
 #EXTVLCOPT:file-caching=1000
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 
@@ -127,7 +126,7 @@ https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kh3LGAP.png" group-title=" VARIEDADES",80 Rede SPTV
 https://video01.logicahost.com.br/websptv/websptv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Usw2e9d.png" group-title=" VARIEDADES",81 Rede UTV
+#EXTINF:-1 tvg-id="UTV" tvg-logo="https://i.imgur.com/Usw2e9d.png" group-title=" VARIEDADES",81 Rede UTV
 https://utvsoultv.acessaradios.com.br/utvsoultv/utvsoultv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.vidks.net/v2x/l/webtv-vintage.webp?q=70" group-title=" VARIEDADES",82 Vintage TV
@@ -143,15 +142,14 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadept16intl-2
 
 # ======================== SÉRIES
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/2tdMyef.png" group-title="SÉRIES",110 AWTV
+#EXTINF:-1 tvg-id="AWTV"  tvg-logo="https://i.imgur.com/2tdMyef.png" group-title="SÉRIES",110 AWTV
 #EXTVLCOPT:http-referrer=https://awtv.com.br
-#EXTVLCOPT:file-caching=1000
 https://awtv.nuvemplay.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/22jXTu4.png" group-title="SÉRIES",111 Central TV
+#EXTINF:-1 tvg-id="CentralTV"  tvg-logo="https://i.imgur.com/22jXTu4.png" group-title="SÉRIES",111 Central TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist.m3u8
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/100x100_ecommerce_Acesso_Brasil_TV_ih0G4wu.png" group-title="SÉRIES",112 Acesso Brasil TV
+#EXTINF:-1 tvg-id="AcessoBrasil"  tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/100x100_ecommerce_Acesso_Brasil_TV_ih0G4wu.png" group-title="SÉRIES",112 Acesso Brasil TV
 https://s1.tvr.ovh/acessobrasiltv/acessobrasiltv/playlist.m3u8
 
 # ======================== DESENHOS
@@ -164,13 +162,13 @@ https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 
 # ======================== FILMES
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",130 CineMonde
+#EXTINF:-1 tvg-id="Cinemonde" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/LOGO.png" group-title="FILMES",130 CineMonde
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.vidks.net/v2x/l/classique-tv.webp?q=70" group-title="FILMES",131 Classique TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.vidks.net/v2x/l/darkflix-tv.webp?q=70" group-title="FILMES",132 DarkFlix HD
+#EXTINF:-1 tvg-id="DarkFlix" tvg-logo="https://img.vidks.net/v2x/l/darkflix-tv.webp?q=70" group-title="FILMES",132 DarkFlix HD
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2112f7942be7a7bf3f4b41e082cee2b8.webp" group-title="FILMES",133 MovieSphere
@@ -178,7 +176,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 
 # ======================== GEEK
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jML1u4O.png" group-title="GEEK",140 Geekdot
+#EXTINF:-1 tvg-id="Geekdot" tvg-logo="https://i.imgur.com/jML1u4O.png" group-title="GEEK",140 Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="Loading" tvg-logo="https://img.vidks.net/v2x/l/loading.webp?q=70" group-title="GEEK",141 Loading

@@ -3,7 +3,7 @@
 # JHV IPTV LIST v0.3.1 - 22/03/2026
 # -----------------------------------------------
 
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/O02TF2r.png" group-title=" VARIEDADES",2 Globo
+#EXTINF:-1 tvg-id="523353" tvg-logo="https://i.imgur.com/O02TF2r.png" group-title=" VARIEDADES",2 Globo
 https://api.m3use.projectmoose.xyz/m3u/Vill3y/TV-Aberta-Brasil-SP/683aef9d2e64fb5fd28577b2.m3u8?uid=Vill3y&pkey=kjSzzDh7
 
 #EXTINF:-1 tvg-id="425966" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title=" VARIEDADES",4 Record | MT

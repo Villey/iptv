@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://bit.ly/4rADai5,https://script.googleusercontent.com/macros/echo?user_content_key=AY5xjrQ1JLeg_8sqp1J-ryWVuHw8gOK9y8vopsWv8oMH0Yjc0x19p31uPG01k4mDHHNievVP_upzvKzntQKXLq960pGG4zYR-x5UFB76oiP4JUmiJYw0i91gBXM1jE2OIB4WBbkaPCpeP4ca3aSdCyz9EzulNNkFNNydbndvS24VFcHea4y-Dg-jJEQr6jqqET09geiqfgVoZDXhLFxPbhz0NVqSJEZbMPPs37wCom-EZV4kCRYAgG2j95Bb7-dt0WmXvRcAefX8K-L5C6NnBTWCDHLZ5WO6JAyS5bMPSrJa&lib=MO94ssbPXpQSFarKiXspLTK0vjyZK6NMR,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml"
 # -----------------------------------------------
-# JHV IPTV LIST v0.3.2 - 16/06/2026
+# JHV IPTV LIST v0.3.3 - 16/06/2026
 # -----------------------------------------------
 
 #EXTINF:-1 tvg-id="523353" tvg-logo="https://i.imgur.com/O02TF2r.png" group-title=" VARIEDADES",002 Globo
@@ -15,7 +15,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u
 #EXTVLCOPT:file-caching=1000
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
-#EXTINF:-1 tvg-id="426126"  tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="NOTÍCIAS",8 Record News
+#EXTINF:-1 tvg-id="426126"  tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="NOTÍCIAS",008 Record News
 #EXTVLCOPT:file-caching=1000
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 

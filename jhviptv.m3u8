@@ -1,17 +1,17 @@
 #EXTM3U x-tvg-url="https://bit.ly/4rADai5,https://script.googleusercontent.com/macros/echo?user_content_key=AY5xjrQ1JLeg_8sqp1J-ryWVuHw8gOK9y8vopsWv8oMH0Yjc0x19p31uPG01k4mDHHNievVP_upzvKzntQKXLq960pGG4zYR-x5UFB76oiP4JUmiJYw0i91gBXM1jE2OIB4WBbkaPCpeP4ca3aSdCyz9EzulNNkFNNydbndvS24VFcHea4y-Dg-jJEQr6jqqET09geiqfgVoZDXhLFxPbhz0NVqSJEZbMPPs37wCom-EZV4kCRYAgG2j95Bb7-dt0WmXvRcAefX8K-L5C6NnBTWCDHLZ5WO6JAyS5bMPSrJa&lib=MO94ssbPXpQSFarKiXspLTK0vjyZK6NMR,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml"
 # -----------------------------------------------
-# JHV IPTV LIST v0.3.1 - 22/03/2026
+# JHV IPTV LIST v0.3.2 - 16/06/2026
 # -----------------------------------------------
 
-#EXTINF:-1 tvg-id="523353" tvg-logo="https://i.imgur.com/O02TF2r.png" group-title=" VARIEDADES",2 Globo
+#EXTINF:-1 tvg-id="523353" tvg-logo="https://i.imgur.com/O02TF2r.png" group-title=" VARIEDADES",002 Globo
 https://api.m3use.projectmoose.xyz/m3u/Vill3y/TV-Aberta-Brasil-SP/683aef9d2e64fb5fd28577b2.m3u8?uid=Vill3y&pkey=kjSzzDh7
 
-#EXTINF:-1 tvg-id="425966" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title=" VARIEDADES",4 Record | MT
+#EXTINF:-1 tvg-id="425966" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title=" VARIEDADES",004 Record | MT
 #EXTVLCOPT:file-caching=1000
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
 # https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="426068"  tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="EDUCATIVO",5 TV Cultura
+#EXTINF:-1 tvg-id="426068"  tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="EDUCATIVO",005 TV Cultura
 #EXTVLCOPT:file-caching=1000
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
@@ -19,117 +19,117 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTVLCOPT:file-caching=1000
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 
-#EXTINF:-1 tvg-id="426038"  tvg-logo="https://i.imgur.com/roCodnj.png" group-title=" VARIEDADES",10 Band
+#EXTINF:-1 tvg-id="426038"  tvg-logo="https://i.imgur.com/roCodnj.png" group-title=" VARIEDADES",010 Band
 #EXTVLCOPT:file-caching=1000
 https://hplay.tv/augetv/12396547488/131.m3u8
 # https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNT"  tvg-logo="https://i.imgur.com/jcasAmw.png" group-title=" VARIEDADES",12 CNT
+#EXTINF:-1 tvg-id="CNT"  tvg-logo="https://i.imgur.com/jcasAmw.png" group-title=" VARIEDADES",012 CNT
 https://hplay.tv/augetv/12396547488/6749.m3u8
 
-#EXTINF:-1 tvg-id="426178"  tvg-logo="https://i.imgur.com/srURmsi.png" group-title=" VARIEDADES",13 SBT
+#EXTINF:-1 tvg-id="426178"  tvg-logo="https://i.imgur.com/srURmsi.png" group-title=" VARIEDADES",013 SBT
 #EXTVLCOPT:file-caching=1000
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
-#EXTINF:-1 tvg-id="417589" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title=" VARIEDADES",15 Rede Brasil
+#EXTINF:-1 tvg-id="417589" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title=" VARIEDADES",015 Rede Brasil
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w1212581277.m3u8
 
-#EXTINF:-1 tvg-id="523301"  tvg-logo="https://i.imgur.com/k7vO9Bk.png" group-title=" VARIEDADES",18 Rede TV! ES
+#EXTINF:-1 tvg-id="523301"  tvg-logo="https://i.imgur.com/k7vO9Bk.png" group-title=" VARIEDADES",018 Rede TV! ES
 #EXTVLCOPT:file-caching=1000
 https://streaming.cloudecast.com/hls/redetves/index.m3u8
 
-#EXTINF:-1 tvg-id="RedeTV-PR"  tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title=" VARIEDADES",19 Rede TV! PR
+#EXTINF:-1 tvg-id="RedeTV-PR"  tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title=" VARIEDADES",019 Rede TV! PR
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 
-#EXTINF:-1 tvg-id="426022"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="CATÓLICO",21 Rede Vida
+#EXTINF:-1 tvg-id="426022"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="CATÓLICO",021 Rede Vida
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
 
-#EXTINF:-1 tvg-id="CANAL29"  tvg-logo="https://i.imgur.com/3oS1kJl.png" group-title="SÉRIES",29 Canal 29
+#EXTINF:-1 tvg-id="CANAL29"  tvg-logo="https://i.imgur.com/3oS1kJl.png" group-title="SÉRIES",029 Canal 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://img.vidks.net/v2x/l/tv-preve.webp" group-title="EDUCATIVO",32 TV Prevê
+#EXTINF:-1 tvg-id=""  tvg-logo="https://img.vidks.net/v2x/l/tv-preve.webp" group-title="EDUCATIVO",032 TV Prevê
 https://video01.kshost.com.br/paulispar7372/paulispar7372/playlist.m3u8?hls_ctx=97q6i941&t=1774065636
 
-#EXTINF:-1 tvg-id="TVE-Brasil"  tvg-logo="https://i.imgur.com/MQ6lJpS.png" group-title="EDUCATIVO",34 TVE
+#EXTINF:-1 tvg-id="TVE-Brasil"  tvg-logo="https://i.imgur.com/MQ6lJpS.png" group-title="EDUCATIVO",034 TVE
 https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/chunklist_w1775250420_b5728000.m3u8
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/co7TCWC.png" group-title=" VARIEDADES",38 Canal 38
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/co7TCWC.png" group-title=" VARIEDADES",038 Canal 38
 #EXTVLCOPT:file-caching=1000
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 
-#EXTINF:-1 tvg-id="523345"  tvg-logo="https://i.imgur.com/NJCEHbQ.png" group-title="CATÓLICO",44 TV Aparecida
+#EXTINF:-1 tvg-id="523345"  tvg-logo="https://i.imgur.com/NJCEHbQ.png" group-title="CATÓLICO",044 TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
 
-#EXTINF:-1 tvg-id="NGT"  tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title=" VARIEDADES",48 Rede NGT
+#EXTINF:-1 tvg-id="NGT"  tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title=" VARIEDADES",048 Rede NGT
 #EXTVLCOPT:file-caching=1000
 https://isaocorp.cloudecast.com/ngt/index.m3u8
 
-#EXTINF:-1 tvg-id="523302" tvg-logo="https://i.imgur.com/0sksWse.png" group-title=" VARIEDADES",53 TV Gazeta
+#EXTINF:-1 tvg-id="523302" tvg-logo="https://i.imgur.com/0sksWse.png" group-title=" VARIEDADES",053 TV Gazeta
 https://hplay.tv/augetv/12396547488/6576.m3u8
 
-#EXTINF:-1 tvg-id="Rede-Minas"  tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png" group-title="EDUCATIVO",54 Rede Minas
+#EXTINF:-1 tvg-id="Rede-Minas"  tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png" group-title="EDUCATIVO",054 Rede Minas
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="XXI"  tvg-logo="https://i.imgur.com/ZHO33ib.png" group-title="CATÓLICO",55 Rede Século 21
+#EXTINF:-1 tvg-id="XXI"  tvg-logo="https://i.imgur.com/ZHO33ib.png" group-title="CATÓLICO",055 Rede Século 21
 https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/master.m3u8
 
-#EXTINF:-1 tvg-id="426185"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/320px-TvBrasil2023.png" group-title="EDUCATIVO",56 TV Brasil
+#EXTINF:-1 tvg-id="426185"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/320px-TvBrasil2023.png" group-title="EDUCATIVO",056 TV Brasil
 #EXTVLCOPT:file-caching=1000
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-id="cancao-nova"  tvg-logo="https://i.imgur.com/wcRWSzc.png" group-title="CATÓLICO",58 TV Canção Nova
+#EXTINF:-1 tvg-id="cancao-nova"  tvg-logo="https://i.imgur.com/wcRWSzc.png" group-title="CATÓLICO",058 TV Canção Nova
 #EXTVLCOPT:file-caching=1000
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="425991"  tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="POLÍTICO",60 TV Câmara
+#EXTINF:-1 tvg-id="425991"  tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="POLÍTICO",060 TV Câmara
 #EXTVLCOPT:file-caching=1000
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/rHPY0Yv.png" group-title="POLÍTICO",62 Canal Gov
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/rHPY0Yv.png" group-title="POLÍTICO",062 Canal Gov
 #EXTVLCOPT:file-caching=1000
 https://canalgov-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="EDUCATIVO",64 Canal Educação
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="EDUCATIVO",064 Canal Educação
 #EXTVLCOPT:file-caching=1000
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 
 # =====================================================
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://img.vidks.net/v2x/l/tvc-bauru.webp" group-title=" VARIEDADES",70 TVC Bauru
+#EXTINF:-1 tvg-id=""  tvg-logo="https://img.vidks.net/v2x/l/tvc-bauru.webp" group-title=" VARIEDADES",070 TVC Bauru
 https://video09.logicahost.com.br/tvbauru/tvbauru/chunklist_w1147724451.m3u8
 
-#EXTINF:-1 tvg-id="ISTV" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title=" VARIEDADES",71 ISTV
+#EXTINF:-1 tvg-id="ISTV" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title=" VARIEDADES",071 ISTV
 https://cdn-tiva-video10-logicahost-com-br.smartbit.co/redeistv/redeistv/chunklist_w1852164491.m3u8
 # https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/I6pKoBd.png" group-title="TURISMO",72 TV Paraná
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/I6pKoBd.png" group-title="TURISMO",072 TV Paraná
 #EXTVLCOPT:file-caching=1000
 http://200.189.113.201/hls/tve.m3u8
 
-#EXTINF:-1 tvg-id="Primer" tvg-logo="https://i.imgur.com/PMptSP3.png" group-title=" VARIEDADES",73 Primer TV
+#EXTINF:-1 tvg-id="Primer" tvg-logo="https://i.imgur.com/PMptSP3.png" group-title=" VARIEDADES",073 Primer TV
 http://200.194.238.229:8383/live/primer/playlist.m3u8
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/Y7b29VG.png" group-title=" VARIEDADES",74 TV Padre Cicero
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/Y7b29VG.png" group-title=" VARIEDADES",074 TV Padre Cicero
 #EXTVLCOPT:file-caching=1000
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Adesso"  tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="",75 Adesso TV
+#EXTINF:-1 tvg-id="Adesso"  tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="",075 Adesso TV
 #EXTVLCOPT:file-caching=1000
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 
-#EXTINF:-1 tvg-id="426089"  tvg-logo="https://i.imgur.com/H5zWaCa.png" group-title="CATÓLICO",76 TV Pai Eterno
+#EXTINF:-1 tvg-id="426089"  tvg-logo="https://i.imgur.com/H5zWaCa.png" group-title="CATÓLICO",076 TV Pai Eterno
 https://video09.logicahost.com.br/paieterno/paieterno/master.m3u8
 
-#EXTINF:-1 tvg-id="PUCTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png" group-title="CATÓLICO",77 PUC TV
+#EXTINF:-1 tvg-id="PUCTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png" group-title="CATÓLICO",077 PUC TV
 https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kh3LGAP.png" group-title=" VARIEDADES",80 Rede SPTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kh3LGAP.png" group-title=" VARIEDADES",080 Rede SPTV
 https://video01.logicahost.com.br/websptv/websptv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="UTV" tvg-logo="https://i.imgur.com/Usw2e9d.png" group-title=" VARIEDADES",81 Rede UTV
+#EXTINF:-1 tvg-id="UTV" tvg-logo="https://i.imgur.com/Usw2e9d.png" group-title=" VARIEDADES",081 Rede UTV
 https://utvsoultv.acessaradios.com.br/utvsoultv/utvsoultv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.vidks.net/v2x/l/webtv-vintage.webp?q=70" group-title=" VARIEDADES",82 Vintage TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.vidks.net/v2x/l/webtv-vintage.webp?q=70" group-title=" VARIEDADES",082 Vintage TV
 https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8?hls_ctx=748r418t
 
 # ======================== CULINÁRIA
